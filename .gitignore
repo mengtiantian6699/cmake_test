@@ -1,0 +1,6 @@
+build/
+bin/
+lib/
+bin_install/
+install_path/
+true
